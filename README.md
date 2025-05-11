@@ -1,12 +1,34 @@
-# React + Vite
+# Zap Recall ⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição do Projeto
 
-Currently, two official plugins are available:
+Zap Recall é um aplicativo de flashcards desenvolvido para auxiliar nos seus estudos e revisões de conteúdo. A dinâmica é simples e eficaz: cada cartão apresenta uma pergunta ou afirmação, e o desafio é lembrar da resposta antes de virar o cartão. Ao recordar instantaneamente a resposta, você tem um verdadeiro "Zap!" ⚡, indicando que aquele conteúdo está bem fixado na sua memória. O app te ajuda a identificar os tópicos que você domina e aqueles que precisam de mais atenção.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React:** Uma biblioteca JavaScript para construção de interfaces de usuário.
+* **Vite:** Um construtor de projetos extremamente rápido e uma ferramenta de desenvolvimento de última geração para React.
+* **Styled Components:** Uma biblioteca que permite escrever estilos CSS dentro dos seus componentes React de forma elegante e intuitiva.
+
+## Como Utilizar
+
+Você pode experimentar o Zap Recall diretamente no seu navegador através do seguinte link:
+
+[Link do Deploy no Vercel](https://zap-recall-lime-eight.vercel.app)
+
+## Imagem do Projeto
+
+![Imagem do Zap Recall](project-image.png)
+
+## Funcionalidades Principais
+
+* Apresentação de flashcards com perguntas/afirmações.
+* Mecânica de "virar" o cartão para revelar a resposta.
+* Interface intuitiva e fácil de usar.
+* Ótimo para revisar conteúdos de forma dinâmica e divertida.
+
+## Autor
+
+Yasmim Cabral
